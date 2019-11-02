@@ -45,4 +45,3 @@ namespace AdoDotnetExample.Controllers
     }
 }
 
-//hello world
